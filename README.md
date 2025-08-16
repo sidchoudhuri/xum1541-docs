@@ -3,12 +3,14 @@
 
 - ### Installing OpenCBM on macOS via HomeBrew
       brew install opencbm
-  
+  - #### OpenCBM GUI for macOS
+    [Open CBM Helper V1.2 for macOS](https://csdb.dk/release/?id=213733) OpenCBM Helper is an front-end to several command-line utilities for transferring files to diskette and working with disk images. This tool was written by [Darkflight](https://csdb.dk/scener/?id=26613) of [Fantasy](https://csdb.dk/group/?id=4364) to quickly make using OpenCBM easy by providing a familiar windows interface that removes the need to learn the command-line syntax of each program
 - ### Installing Nibtools on macOS via HomeBrew
     Nibtools is no longer hosted in a public SVN. So, all MacPorts installation instructions are broken. [hitorisensi has graciously hosted a homebrew version](https://www.lemon64.com/forum/viewtopic.php?p=1023828#p1023828) [here](https://github.com/HitoriSensei/homebrew-taps).
 
       brew install hitorisensei/homebrew-taps/nibtools
-
+  - #### Nibtools GUI for macOS
+    [Nibtools RWC GUI v1.4](https://csdb.dk/release/?id=218453)
 ### [Windows Docs](https://github.com/sidchoudhuri/xum1541-docs/tree/main/windows#readme)
 ### [macOS Docs](https://github.com/sidchoudhuri/xum1541-docs/tree/main/macos#readme)
 
